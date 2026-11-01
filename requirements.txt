@@ -1,0 +1,8 @@
+# Recorded Figure 4-6 environment, plus other imported packages.
+# Added packages below are not version-locked or clean-environment validated.
+-r analysis/figures456/requirements.txt
+networkx
+mapalign
+abagen
+# Optional transcriptomic enrichment branch (not proof it was used in the paper):
+gseapy
