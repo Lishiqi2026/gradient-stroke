@@ -1,0 +1,20 @@
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.0
+statsmodels==0.14.5
+matplotlib==3.10.3
+nibabel==5.3.2
+brainspace==0.1.20
+neuromaps==0.0.5
+surfplot==0.2.0
+vtk==9.3.1
+nilearn==0.12.0
+joblib==1.5.1
+Pillow==11.3.0
+PyMuPDF>=1.24,<1.27
+reportlab>=4,<5
+
+# Additional imports used by included legacy project modules; versions not recovered.
+openpyxl
+PyPDF2
